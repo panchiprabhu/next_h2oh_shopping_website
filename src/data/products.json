@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Stainless Steel Bottle",
+        "image": "/pic1.jpeg",
+        "price": 899,
+        "favorite": true,
+        "description": "Stay hydrated in style with our premium Stainless Steel Bottle. Engineered with advanced double-wall insulation, this bottle keeps your beverages hot for up to 12 hours or refreshingly cold for 24. Whether you're commuting to work, hitting the gym, or traveling, its sleek, leak-proof design ensures zero spills and maximum performance. Made from rust-resistant, BPA-free materials, it's both eco-friendly and built to last. Make hydration a habit with a bottle that combines function, durability, and minimalist design, a must-have for your everyday adventures."
+    },
+    {
+        "id": "2",
+        "name": "Copper Bottle",
+        "image": "/pic2.jpeg",
+        "price": 1099,
+        "favorite": true,
+        "description": "Transform your daily hydration into a wellness ritual with our handcrafted Copper Bottle. Revered in Ayurvedic tradition, drinking from copper vessels is believed to aid digestion, reduce inflammation, and strengthen immunity. This bottle is not just a container, it’s a lifestyle upgrade, one that connects you to centuries of healing wisdom. With a rustic charm and natural antimicrobial properties, it’s perfect for those who value both health and heritage. Make the smart switch and enjoy the benefits of pure, ionized water, your body will thank you."
+    },
+    {
+        "id": "3",
+        "name": "Hydration Tracker Bottle",
+        "image": "/pic4.jpeg",
+        "price": 599,
+        "favorite": true,
+        "description": "Say goodbye to dehydration with our Hydration Tracker Bottle, your personal hydration coach. Featuring time-marked motivational reminders, this bottle keeps you accountable all day. Whether you're at your desk, in class, or at the gym, this bottle is your gentle nudge to drink more water. Made from BPA-free, odor-resistant plastic, it’s as safe as it is stylish. With a leak-proof lid and carry-friendly design, this bottle is the ideal choice for those who want to build healthier habits. Drink smarter, feel better, start your hydration journey now."
+    },
+    {
+        "id": "4",
+        "name": "Sipper",
+        "image": "/pic3.jpeg",
+        "price": 999,
+        "favorite": false,
+        "description": "Meet your new workout companion: the ultra-light, leak-resistant Sipper Bottle. Designed for ease and comfort, it features a soft-touch grip and precision nozzle for quick, effortless sips during intense workouts or long hikes. With a sporty silhouette and durable build, it not only fuels your performance but also looks great on the go. Whether you're hitting the treadmill or heading outdoors, this sipper will keep you refreshed and ready to conquer your day. Stay fit, stay focused, one sip at a time."
+    },
+    
+    {
+        "id": "5",
+        "name": "Protein Shaker Bottle",
+        "image": "/pic5.jpeg",
+        "price": 599,
+        "favorite": false,
+        "description": "Take your fitness routine to the next level with our high-performance Protein Shaker Bottle. Engineered with a blending ball and secure screw-on lid, it delivers smooth, lump-free shakes every single time. Whether it's pre-workout, post-workout, or your daily protein fix, this bottle ensures a clean, easy mix. Built to last with odor-resistant, BPA-free plastic, it's dishwasher safe and travel-ready. Perfect for gym goers, athletes, and anyone who demands convenience with their nutrition. Elevate your shake game, because your health deserves it."
+    },
+    {
+        "id": "6",
+        "name": "Straw Bottle",
+        "image": "/pic6.jpeg",
+        "price": 499,
+        "favorite": false,
+        "description": "Make hydration fun and effortless with our user-friendly Straw Bottle. Featuring a flip-up straw lid and a comfortable grip, it’s designed for quick sips anytime, anywhere. Ideal for kids, teens, and adults, this bottle is perfect for school bags, picnic baskets, or your car's cupholder. Crafted from durable, BPA-free material, it resists spills and is super easy to clean. Whether you're on the move or relaxing at home, this bottle makes staying hydrated feel like a breeze. Bright, practical, and family-friendly, it’s a small change that makes a big difference."
+    }
+]
